@@ -8,3 +8,8 @@
 .main {
   padding-bottom: 30px;
 }
+
+.content {
+
+  min-height: 80vh ;
+}
